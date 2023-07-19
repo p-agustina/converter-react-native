@@ -49,6 +49,8 @@ const MainNavigator = () => {
 // };
 
 // --- App ---
+// 
+// 
 
 const App = () => (
   <NavigationContainer>
